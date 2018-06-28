@@ -1,0 +1,12 @@
+C:\Users\hartlep\source\repos\FirstApp\FirstApp\FirstApp\bin\Debug\netstandard2.0\FirstApp.deps.json
+C:\Users\hartlep\source\repos\FirstApp\FirstApp\FirstApp\bin\Debug\netstandard2.0\FirstApp.dll
+C:\Users\hartlep\source\repos\FirstApp\FirstApp\FirstApp\bin\Debug\netstandard2.0\FirstApp.pdb
+C:\Users\hartlep\source\repos\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.csprojAssemblyReference.cache
+C:\Users\hartlep\source\repos\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hartlep\source\repos\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hartlep\source\repos\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\hartlep\source\repos\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.AssemblyInfoInputs.cache
+C:\Users\hartlep\source\repos\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.AssemblyInfo.cs
+C:\Users\hartlep\source\repos\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hartlep\source\repos\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.dll
+C:\Users\hartlep\source\repos\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.pdb
